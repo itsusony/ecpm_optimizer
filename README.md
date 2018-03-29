@@ -24,6 +24,12 @@ net.core.somaxconn=65535
 
 # usage
 
+0. run it in background
+
+   ```
+   ./bin/ecpm_optimizer &
+   ```
+
 1. give your imp to this optimizer like these (todo. support UDP), it will plus 1 imp for you.
 
     ```
