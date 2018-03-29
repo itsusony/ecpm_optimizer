@@ -46,4 +46,7 @@ net.core.somaxconn=65535
 
 # author
 
-itsusony (meng.xiangliang1985@gmail.com)
+itsusony
+
+# mail
+meng.xiangliang1985@gmail.com or itsusony@fout.jp
